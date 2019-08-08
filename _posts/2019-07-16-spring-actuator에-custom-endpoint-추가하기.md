@@ -1,8 +1,4 @@
----
-layout: post
-title:  "Spring Actuator에 Custom Endpoint 추가하기"
-categories: spring actuator
----
+
 
 **Spring Actuator**는 어플리케이션을 관리 및 모니터링 하는데에 유용한 다양한 기능들을 제공합니다.
 
