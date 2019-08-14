@@ -39,6 +39,16 @@ disqus:
 
 google_analytics: UA-64053570-2
 
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+author:
+  name:         3rdlab
+  url:          https://3rdlab.github.io
+  email:        getthecore@gmail.com
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
