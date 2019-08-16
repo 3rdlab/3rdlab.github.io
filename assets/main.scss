@@ -1,0 +1,20 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import 'tale';
+
+$serif-primary: 'Noto Serif KR', serif;
+$monospaced: 'Nanum Gothic Coding', monospace, Monaco;
+
+html {
+  font-size: 14px;
+
+  @media (min-width: 600px) {
+    font-size: 16px;
+  }
+}
+
+pre {
+  font-size: 13px;
+}
