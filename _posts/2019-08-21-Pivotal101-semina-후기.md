@@ -10,7 +10,7 @@ author: 3rdlab
 
 
 
-삼성 Google Campus에서 진행된 Pivotal101 세미나에 참가하였습니다.
+삼성동 Google Campus에서 진행된 Pivotal101 세미나에 참가하였습니다.
 
 Pivotal은 Spring Framework, Cloud Foundry, RabbitMQ등을 개발, 관리하고 있기에 친숙한 사람들에겐 친숙한 기업일 껍니다.
 

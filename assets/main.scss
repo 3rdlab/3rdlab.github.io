@@ -4,10 +4,8 @@
 
 @import 'tale';
 
-$serif-primary: 'Noto Serif KR', serif;
-$monospaced: 'Nanum Gothic Coding', monospace, Monaco;
-
 html {
+  font-family: 'Noto Sans KR', serif;
   font-size: 14px;
 
   @media (min-width: 600px) {
@@ -16,5 +14,14 @@ html {
 }
 
 pre {
-  font-size: 13px;
+  font-size: 12px;
+}
+
+pre,
+code {
+  font-family: 'Nanum Gothic Coding', monospace, Monaco;
+}
+
+.highlight {
+  padding: 0.5rem;
 }
